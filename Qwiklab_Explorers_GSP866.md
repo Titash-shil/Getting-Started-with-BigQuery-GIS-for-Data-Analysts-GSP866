@@ -10,11 +10,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Operations-for-GKE-GSP497/refs/heads/main/qwiklab_explorers_ts_gsp497.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Getting-Started-with-BigQuery-GIS-for-Data-Analysts-GSP866/refs/heads/main/qwiklab_explorers_gsp866.sh
 
-sudo chmod +x qwiklab_explorers_ts_gsp497.sh
+sudo chmod +x qwiklab_explorers_gsp866.sh
 
-./qwiklab_explorers_ts_gsp497.sh
+./qwiklab_explorers_gsp866.sh
 ```
 
 ---
